@@ -1,0 +1,11 @@
+org\example\common\config\SQLiteDialect$1.class
+org\example\common\models\Marca.class
+org\example\common\models\Modelo.class
+org\example\common\config\SQLiteDialect.class
+org\example\common\config\SQLiteDialect$SQLiteIdentityColumnSupport.class
+org\example\common\models\Notificacion.class
+org\example\common\models\Posicion.class
+org\example\common\models\Empleado.class
+org\example\common\models\Vehiculo.class
+org\example\common\models\Interesado.class
+org\example\common\models\Prueba.class

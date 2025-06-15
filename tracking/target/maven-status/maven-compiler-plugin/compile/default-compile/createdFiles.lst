@@ -1,0 +1,13 @@
+org\example\repository\PosicionRepository.class
+org\example\repository\PruebaRepository.class
+org\example\dto\response\config\DangerZone.class
+org\example\service\TrackingService.class
+org\example\repository\NotificacionRepository.class
+org\example\dto\response\config\AgencyConfig.class
+org\example\dto\request\PosicionRequest.class
+org\example\controller\TrackingController.class
+org\example\client\AgencyConfigClient.class
+org\example\dto\response\config\Location.class
+org\example\repository\VehiculoRepository.class
+org\example\TrackingApplication.class
+org\example\controller\TrackingController$ErrorResponse.class

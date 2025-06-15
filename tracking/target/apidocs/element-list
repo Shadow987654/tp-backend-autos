@@ -1,0 +1,7 @@
+org.example
+org.example.client
+org.example.controller
+org.example.dto.request
+org.example.dto.response.config
+org.example.repository
+org.example.service
